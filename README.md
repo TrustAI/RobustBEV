@@ -37,7 +37,7 @@ _base_ = [
 
 ### Model Weights
 ```bash
-# Download zip dataset from Google Drive
+# Download from Google Drive
 
 # DETR
 filename='detr3d_resnet101.pth'
